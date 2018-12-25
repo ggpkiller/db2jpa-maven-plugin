@@ -15,9 +15,9 @@ jpa 逆向生成通用的，拥有jpa注解的entity javabean，maven插件，�
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. git clone 到任意目录，maven install到本地仓库
+2. maven plugins中配置，执行db2jpa:generate -e
+3. 如果发现没有找到该依赖，请检查是否已经install到本地repository
 
 #### 参与贡献
 
@@ -25,13 +25,3 @@ jpa 逆向生成通用的，拥有jpa注解的entity javabean，maven插件，�
 2. 新建 Feat_xxx 分支
 3. 提交代码
 4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
